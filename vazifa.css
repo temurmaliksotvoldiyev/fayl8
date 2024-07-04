@@ -1,0 +1,165 @@
+
+/* header qismi */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+
+
+.header-con{
+    position: relative;
+    bottom: 55px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-left: 400px;
+    
+}
+.img2{
+    width: 209px;
+height: 58px;
+margin-left: 100px;
+
+}
+button{
+    width: 156px;
+   color: white;
+    background: #F05670;
+height: 52px;
+border: none;
+border-radius:15px;
+}
+.header-2 {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.header-2 >p {
+    font-size: 10px;
+
+}
+
+.header-2 >h3{
+    font-size: 20px;
+    color:  #1E959B;
+    ;
+}
+.header-2 > button{
+width: 180px;
+height: 50px;
+margin-top: 10px;
+}
+.p > img{
+    position: relative;
+    bottom: 240px; 
+ width: 400px;
+ margin-left: 390px;
+    
+}
+.header-3{
+    margin-top: 100px;
+margin-left: 150px;
+gap: 40px;
+    display: flex;
+    width: 150px;
+    height: 100px;
+}
+.hh{
+    color:#1E959B ;
+}
+.pp{
+    font-size: 10px;
+}
+.div-1>img {
+    width: 400px;
+}
+.div-1{
+    display: flex;
+     gap:100px ;
+     margin-top: 50px;
+     margin-left: 100px;
+}
+.div-2 {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.div-2 >h2{
+    color:#1E959B ;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+.button{
+    width: 133px;
+height: 40px;
+
+color: black;
+background-image:linear-gradient(to left, (#1E959B, blue) ) ;
+border: none;
+margin-left: 300px;
+border: 1px 0px 0px 0px;
+}
+.bir{
+    width: 300px;
+    height: 250px;
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+}
+.bir1{
+    width: 300px;
+    height: 250px;
+    display: flex; 
+    gap: 30px;
+    margin-top: 20px;
+
+}
+.opa > img{
+width: 1000px;
+height: 400px;
+}
+.container{
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: auto;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.container > img {
+  width: 150px;
+margin-top: 30px;
+z-index: 1;
+}
+.div1{
+    position: absolute;
+    
+    width: 200%;
+    height: 60px;
+    background: dodgerblue;
+    margin-top: -170px;
+}
+.div2{
+    position: absolute;
+    
+    width: 200%;
+    height: 60px;
+    background: dodgerblue;
+    margin-top: 260px; 
+}
+.cont{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.cont >  button {
+    position: absolute;
+    bottom: -2400px;
+    right: 100px;
+    width: 230px;
+    height: 80px;
+    
+}
+

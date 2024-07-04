@@ -1,0 +1,30 @@
+
+/* flex-items  */
+/* 1. order - joy almashtirib beradi */
+
+
+
+
+
+.flex-container{
+display: flex ;
+align-items: stretch;
+background-color: dodgerblue;
+}
+.flex-container > div{
+    width: 50px;
+    padding: 30px;
+    margin: 10px;
+    text-align: center;
+    display: flex;
+    background-color: white;
+}
+
+/* 2. flex - grow divlarni boshqa diblarga nisbatan qanday katalikda belgilaydi  */
+
+
+/* 3. flex - shirink - divlarni boshqa divlarga nisbatan qisqarishini belgilaydi */
+    
+/* 4. flex - basis - divlarni boshlang'ich width holatni belgilaydi */
+
+
